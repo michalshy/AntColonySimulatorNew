@@ -6,7 +6,7 @@ Now they can move and bounce off the walls, but I'm working on pheromones system
 Press Left Mouse Button to draw walls (but don't draw them continously yet, it's very poorly optimized) and press Enter to start simulation :)
 
 In work:
-- optimization
-- pheromones system
-- food system
-- reproduction system
+- optimization - not so much of implemented
+- pheromones system - not so much of implemented
+- food system - implemented
+- reproduction system - implemented
